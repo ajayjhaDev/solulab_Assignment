@@ -7,7 +7,7 @@ const TabC = () => {
   return (
     <>
       <Tabs
-        defaultActiveKey="profile"
+        defaultActiveKey="home"
         id="justify-tab-example"
         className="mb-3 mt-2"
         justify
